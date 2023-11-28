@@ -1,7 +1,7 @@
 # **A-Z APP**
 ```
-Nama    : 
-NIM     : 
+Nama    : rifa andiani meilawati
+NIM     : 312210377
 Kelas   : TI.22.A.4
 Matkul  : Pemrograman Mobile 1
 Dosen   : Donny Maulana, S.Kom., M.M.S.I.
